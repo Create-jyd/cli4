@@ -1,0 +1,3 @@
+# vscode_sync
+
+token：228a8db066e71ed1c1fcd2cc941401e5
